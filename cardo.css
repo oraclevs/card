@@ -1,0 +1,225 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.card {
+    width: 100%;
+    height: 100vh;
+    background-image: url(../img/purple.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+
+.cardo {
+    width: 500px;
+    background-color: #1D267D;
+    text-align: center;
+    padding: 40px 90px;
+    color: aquamarine;
+    position: relative;
+    border-radius: 20px;
+    box-shadow: 10px 10px 5px rgb(69, 68, 68);
+
+}
+
+
+.icox {
+    width: 25px;
+    position: absolute;
+    left: 40px;
+    top: 40px;
+}
+
+.proimg {
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    background: white;
+    padding: 6px;
+    margin-top: 40px;
+    
+}
+.proimg:hover{
+    transform: scale(1.2);
+   background-color: gold;
+}
+.mail {
+    background-color: plum;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 1cm;
+    text-decoration: none;
+
+
+}
+
+.socail a {
+    text-decoration: none;
+    font-size: 30px;
+    color: #D4ADFC;
+    margin-right: 20px;
+
+}
+
+.socail a:hover {
+    color: gold;
+   
+}
+.icox {
+    text-decoration: none;
+    font-size: 30px;
+    color: #D4ADFC;
+
+}
+
+
+
+h3 {
+    font-size: 30px;
+    font-family: sans-serif;
+    color: white;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    text-transform: uppercase;
+    font-weight: 600;
+    text-shadow: 0 20px 20px rgba(203, 135, 127, 0.5);
+}
+
+.pss {
+    color:#D4ADFC;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.psd {
+    color: white;
+    text-transform: capitalize;
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 15px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+span {
+    color: yellow;
+}
+
+
+
+/* second card section */
+
+
+.carda {
+    width: 500px;
+    background-color:white;
+    text-align: center;
+    padding: 40px 90px;
+    color: aquamarine;
+    position: relative;
+    border-radius: 20px;
+    box-shadow: 10px 10px 5px rgb(69, 68, 68);
+}
+
+
+.icoa {
+    width: 25px;
+    position: absolute;
+    left: 40px;
+    top: 40px;
+}
+
+.proimgs {
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    background:black;
+    padding: 6px;
+    margin-top: 40px;
+}
+
+.proimgs:hover{
+    transform: scale(1.2);
+   background-color: red;
+}
+
+.maia {
+    background-color: #0C134F;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 1cm;
+    text-decoration: none;
+
+
+}
+
+.socaila a {
+    text-decoration: none;
+    font-size: 30px;
+    color:#0C134F;
+    margin-right: 20px;
+
+}
+
+.socaila a:hover {
+    color: red;
+}
+.icoa {
+    text-decoration: none;
+    font-size: 30px;
+    color:#0C134F;
+
+}
+
+
+
+.vvv {
+    font-size: 30px;
+    font-family: sans-serif;
+    color:black;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    text-transform: uppercase;
+    font-weight: 600;
+    text-shadow: 0 20px 20px rgba(203, 135, 127, 0.5);
+}
+
+.psa {
+    color:black;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.psb {
+    color:black;
+    text-transform: capitalize;
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 15px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.us {
+    color:red;
+}
+
+
